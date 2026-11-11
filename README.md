@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IceKowedd
-- 👀 I’m interested in hardprograming, assemblylanguage, gamedesign, python, C#, C++ and alot of other things. 
-- 🌱 I’m currently learning networking and gamedesign.
+- 👀 I’m interested in hardprograming, assemblylanguage, gamedesign, AI, and programming with it.
+- 🌱 I’m currently learning networking.
 - 💞️ I’m always in for a chat and love to learn. 
 - 📫 How to reach me trough Github.
 
